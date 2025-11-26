@@ -1,0 +1,13 @@
+{
+  "source_folder": "/Users/mgolc/Documents/Kameros - masinu numeriai",
+  "output_file": "output/parking_durations.xlsx",
+  "timestamp_format": "%Y-%m-%d %H:%M:%S",
+  "columns": {
+    "plate": "License Plate",
+    "event": "Channel Name",
+    "timestamp": "Passing Time"
+  },
+  "entry_marker": "01 ENTRY",
+  "exit_marker": "02 EXIT",
+  "recursive": false
+}
